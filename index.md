@@ -1,5 +1,5 @@
 # S. C. Seide
 
-Paris-based freelance jounralist and artist.
+Paris-based freelance journalist and artist.
 
 ### [Writing](/pages/writing.md) | [Artwork](/pages/artwork.md)
